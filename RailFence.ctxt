@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=key\ message
+comment1.target=java.lang.String\ encryption(int,\ java.lang.String)
+comment2.params=key\ ciphertext
+comment2.target=java.lang.String\ decryption(int,\ java.lang.String)
+numComments=3
